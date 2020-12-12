@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Harsh Pandey. 👋
 
 <!--
 **MASTERCHIEF011/MASTERCHIEF011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=MASTERCHIEF011&theme=onedark&count_private=true" />
+
+
+
